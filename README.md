@@ -4,7 +4,7 @@
 
 [![Demo](https://img.shields.io/badge/demo-terminal%20scanner-0ea5e9)](#demo)
 
-A fast, interactive terminal scanner that checks your Node.js projects for exposure to the [axios@1.14.1 supply chain attack](https://socket.dev/blog/axios-1-14-1-supply-chain-attack) (March 31 2026).
+A fast, interactive terminal scanner that checks your Node.js projects for exposure to the [axios npm package compromise](https://socket.dev/blog/axios-npm-package-compromised) (March 31 2026).
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
